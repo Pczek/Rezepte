@@ -5,3 +5,12 @@ Die Rezepte stammen aus verschiedenen Quellen und wurden von mir erprobt und pas
 ## Hauptspeisen
 
 - [Pizza](Pizza.md)
+
+## Dessert
+
+- [Chocolate Pudding](ChocolatePudding.md)
+
+
+## Sonstiges
+
+- [Joghurt](Joghurt.md)
