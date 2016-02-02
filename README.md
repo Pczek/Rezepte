@@ -9,6 +9,7 @@ Die Rezepte stammen aus verschiedenen Quellen und wurden von mir erprobt und pas
 ## Dessert
 
 - [Chocolate Pudding](ChocolatePudding.md)
+- [Bienenstich](Bienenstich.md)
 
 
 ## Sonstiges
